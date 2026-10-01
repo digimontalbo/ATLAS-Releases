@@ -11,3 +11,5 @@ Stop DCS and ATLAS before running setup. Choose Dedicated Server or Full Client 
 [Donate on Patreon](https://www.patreon.com/c/u15816129/membership). Support is optional and does not unlock required features.
 
 This repository contains release downloads and documentation. ATLAS development source is not published here.
+
+[ATLAS Companion for DCS Privacy Policy](PRIVACY.md)
