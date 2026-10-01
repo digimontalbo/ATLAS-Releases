@@ -40,5 +40,6 @@ We may update this policy when the app's data practices change. The current vers
 
 For privacy questions about ATLAS Companion for DCS, contact:
 
-Matthew Montalbo  
+Matthew Montalbo
+
 Email: fx41796@gmail.com
